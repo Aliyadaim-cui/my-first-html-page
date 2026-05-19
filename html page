@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <title>
+      <body>
+        <h1>my personal profile</h1>
+        <h1>main headings</h1>
+        <h2>sub headings </h2>
+        <h3>small headings </h3>
+        <p>hello! my name is alia</ul></p>
+        <ul>
+          <li>readings</li>
+          <li>painting</li>
+          <li>travelling</li>
+        </ul>
+        <ol>
+          <li>applied physics</li>
+          <li></li>calculus</li>
+          <li>ict</li>
+        </ol>
+          <table border="1">
+            <tr>
+              <th>field</th>
+              <th>information</th>
+              <tr>
+                <tr>
+                  <td>name</td>
+                  <td>alia daim</td>
+                </tr>
+          </table>
